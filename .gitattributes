@@ -1,0 +1,6 @@
+# Force GitHub Linguist to detect both backend and frontend
+weebChat/** linguist-detectable=true
+frontend/** linguist-detectable=true
+*.cs linguist-language=C#
+*.tsx linguist-language=TypeScript
+*.ts linguist-language=TypeScript
